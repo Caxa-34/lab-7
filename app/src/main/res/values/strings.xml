@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DBforNote</string>
+    <string name="Key">Key</string>
+    <string name="Value">Value</string>
+    <string name="Insert">Insert</string>
+    <string name="Update">Update</string>
+    <string name="Select">Select</string>
+    <string name="Delete">Delete</string>
+</resources>
